@@ -6,4 +6,8 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@Demnlight&layout=compact&theme=dracula)](https://wakatime.com/@Demnlight)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Demnlight&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+
